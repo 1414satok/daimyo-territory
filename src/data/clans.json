@@ -1,0 +1,160 @@
+{
+  "hojo": {
+    "name": "後北条氏",
+    "color": "#e8b86d",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/後北条氏",
+    "description": "伊豆・相模を本拠に関東を席巻した戦国大名。早雲以来五代にわたって勢力を拡大した。",
+    "lords": [
+      { "name": "北条氏綱", "from": 1519, "to": 1541 },
+      { "name": "北条氏康", "from": 1541, "to": 1571 },
+      { "name": "北条氏政", "from": 1571, "to": 1590 }
+    ]
+  },
+  "takeda": {
+    "name": "武田氏",
+    "color": "#c0392b",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/武田氏",
+    "description": "甲斐を本拠とする甲斐源氏の名門。信玄の代に甲信・駿河・上野に版図を拡大した。",
+    "lords": [
+      { "name": "武田信虎", "from": 1508, "to": 1541 },
+      { "name": "武田信玄", "from": 1541, "to": 1573 },
+      { "name": "武田勝頼", "from": 1573, "to": 1582 }
+    ]
+  },
+  "anayama": {
+    "name": "穴山氏",
+    "color": "#9b2335",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/穴山氏",
+    "description": "甲斐国河内領を支配した武田氏庶流。穴山梅雪（信君）は武田の重臣だが独自の外交を展開した。",
+    "lords": [
+      { "name": "穴山信友", "from": 1530, "to": 1551 },
+      { "name": "穴山信君（梅雪）", "from": 1551, "to": 1582 }
+    ]
+  },
+  "oyamada": {
+    "name": "小山田氏",
+    "color": "#a93226",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/小山田氏_(武田氏家臣)",
+    "description": "甲斐郡内領（都留郡）を支配する武田氏の有力国衆。郡内地方を半独立的に治めた。",
+    "lords": [
+      { "name": "小山田信有", "from": 1536, "to": 1560 },
+      { "name": "小山田信茂", "from": 1560, "to": 1582 }
+    ]
+  },
+  "uesugi": {
+    "name": "上杉氏（長尾氏）",
+    "color": "#2980b9",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/上杉謙信",
+    "description": "越後を本拠とする謙信率いる上杉氏。関東管領を継承し、北条・武田と激しく争った。",
+    "lords": [
+      { "name": "長尾景虎（上杉謙信）", "from": 1548, "to": 1578 },
+      { "name": "上杉景勝", "from": 1578, "to": 1598 }
+    ]
+  },
+  "satake": {
+    "name": "佐竹氏",
+    "color": "#27ae60",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/佐竹氏",
+    "description": "常陸を本拠とする清和源氏の名門。北条氏と対立し、上杉氏と連携して常陸・下野に勢力を持った。",
+    "lords": [
+      { "name": "佐竹義昭", "from": 1545, "to": 1565 },
+      { "name": "佐竹義重", "from": 1565, "to": 1609 }
+    ]
+  },
+  "utsunomiya": {
+    "name": "宇都宮氏",
+    "color": "#16a085",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/宇都宮氏",
+    "description": "下野の有力国衆。下野宇都宮を本拠とし、北条・佐竹・上杉の間で巧みな外交を展開した。",
+    "lords": [
+      { "name": "宇都宮尚綱", "from": 1536, "to": 1545 },
+      { "name": "宇都宮広綱", "from": 1545, "to": 1576 }
+    ]
+  },
+  "satomi": {
+    "name": "里見氏",
+    "color": "#8e44ad",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/里見氏",
+    "description": "安房を本拠とする上総・安房の大名。北条氏と対立し、上杉氏と連携して房総に勢力を持った。",
+    "lords": [
+      { "name": "里見義堯", "from": 1533, "to": 1574 },
+      { "name": "里見義弘", "from": 1574, "to": 1587 }
+    ]
+  },
+  "chiba": {
+    "name": "千葉氏",
+    "color": "#6c3483",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/千葉氏",
+    "description": "下総を本拠とする古族。戦国期は北条氏の傘下に入りながら下総・上総に勢力を維持した。",
+    "lords": [
+      { "name": "千葉昌胤", "from": 1532, "to": 1557 },
+      { "name": "千葉胤富", "from": 1557, "to": 1583 }
+    ]
+  },
+  "imagawa": {
+    "name": "今川氏",
+    "color": "#e67e22",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/今川氏",
+    "description": "駿河・遠江を本拠とする名門。義元の代に三河も支配下に置いたが桶狭間で敗れた。",
+    "lords": [
+      { "name": "今川義元", "from": 1536, "to": 1560 },
+      { "name": "今川氏真", "from": 1560, "to": 1569 }
+    ]
+  },
+  "ogasawara": {
+    "name": "小笠原氏",
+    "color": "#1abc9c",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/小笠原氏",
+    "description": "信濃守護を務めた名門。武田信玄の侵攻で信濃を失い、やがて徳川氏の家臣となった。",
+    "lords": [
+      { "name": "小笠原長時", "from": 1541, "to": 1553 }
+    ]
+  },
+  "murakami": {
+    "name": "村上氏",
+    "color": "#2ecc71",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/村上氏_(信濃国)",
+    "description": "信濃北部・埴科郡の国衆。武田信玄に二度勝利するも最終的に上杉謙信を頼って越後へ落ち延びた。",
+    "lords": [
+      { "name": "村上義清", "from": 1530, "to": 1557 }
+    ]
+  },
+  "sanada": {
+    "name": "真田氏",
+    "color": "#e74c3c",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/真田氏",
+    "description": "信濃小県郡の国衆。真田幸隆・昌幸・幸村と三代にわたり戦国乱世を生き抜いた。",
+    "lords": [
+      { "name": "真田幸隆", "from": 1550, "to": 1574 },
+      { "name": "真田昌幸", "from": 1574, "to": 1611 }
+    ]
+  },
+  "nagao_echigo": {
+    "name": "長尾氏（越後）",
+    "color": "#3498db",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/長尾景虎",
+    "description": "越後守護代から実権を握った長尾氏。景虎（謙信）が上杉姓を継ぎ越後を統一した。",
+    "lords": [
+      { "name": "長尾景虎（上杉謙信）", "from": 1548, "to": 1578 }
+    ]
+  },
+  "ashina": {
+    "name": "蘆名氏",
+    "color": "#2c3e50",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/蘆名氏",
+    "description": "陸奥会津を支配した戦国大名。最盛期は奥州に広大な版図を誇ったが伊達氏に滅ぼされた。",
+    "lords": [
+      { "name": "蘆名盛氏", "from": 1547, "to": 1580 },
+      { "name": "蘆名盛興", "from": 1580, "to": 1584 }
+    ]
+  },
+  "uesugi_yamanouchi": {
+    "name": "上杉氏（山内）",
+    "color": "#5dade2",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/山内上杉家",
+    "description": "関東管領として上野に拠った名家。北条氏に圧迫され、謙信に関東管領職を譲った。",
+    "lords": [
+      { "name": "上杉憲政", "from": 1530, "to": 1552 }
+    ]
+  }
+}
